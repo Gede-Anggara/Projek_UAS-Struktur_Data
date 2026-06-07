@@ -1,6 +1,10 @@
 # DSS Penentuan Lokasi Bisnis
 > Sistem berbasis **_Weighted Undirected Graph_** & **Algoritma Dijkstra**, implementasi menggunakan **Python** + **Streamlit** untuk merekomendasikan bisnis terbaik di Wilayah **Bali, Indonesia**.
 
+## Anggota Kelompok
+- I Gede Anggara Suryantara | 2501010013 (Koordinator)
+- Anak Agung Gede Anom Rangga Pratama | 2501010017
+
 ---
 
 ## BAB 1 - Pendahuluan

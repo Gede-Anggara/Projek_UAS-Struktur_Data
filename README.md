@@ -6,7 +6,7 @@
 - Anak Agung Gede Anom Rangga Pratama | 2501010017
 
 ## Link Presentasi & Video Demo
-Link Presentasi: https://canva.link/56na9l2afi61fti
+Link Presentasi: https://canva.link/56na9l2afi61fti <br>
 Link Video Demo: https://drive.google.com/drive/folders/1jt2rUWuThSnxnVI5nRb_VVPAM7SDJPMp?usp=sharing
 
 ---

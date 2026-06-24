@@ -5,8 +5,9 @@
 - I Gede Anggara Suryantara | 2501010013 (Koordinator)
 - Anak Agung Gede Anom Rangga Pratama | 2501010017
 
-## Link Presentasi Canva
-Link: https://canva.link/56na9l2afi61fti
+## Link Presentasi & Video Demo
+Link Presentasi: https://canva.link/56na9l2afi61fti
+Link Video Demo: https://drive.google.com/drive/folders/1jt2rUWuThSnxnVI5nRb_VVPAM7SDJPMp?usp=sharing
 
 ---
 
